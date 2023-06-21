@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.8",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7",
+  "files": [],
+  "subMetas": {
+    "8abdc": {
+      "importer": "gltf-mesh",
+      "uuid": "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7@8abdc",
+      "displayName": "",
+      "id": "8abdc",
+      "name": "cylinder.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "77ee0": {
+      "importer": "gltf-scene",
+      "uuid": "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7@77ee0",
+      "displayName": "",
+      "id": "77ee0",
+      "name": "cylinder.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7@77ee0",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7@8abdc"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "30ad30c9-6c34-4c19-97fd-e3f7524cd6c7@77ee0"
+      ]
+    }
+  }
+}

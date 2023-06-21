@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.8",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "1bd9579b-1065-44a3-bdda-ad8f5cabde62",
+  "files": [],
+  "subMetas": {
+    "538fa": {
+      "importer": "gltf-mesh",
+      "uuid": "1bd9579b-1065-44a3-bdda-ad8f5cabde62@538fa",
+      "displayName": "",
+      "id": "538fa",
+      "name": "halfBall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 480
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "592ee": {
+      "importer": "gltf-scene",
+      "uuid": "1bd9579b-1065-44a3-bdda-ad8f5cabde62@592ee",
+      "displayName": "",
+      "id": "592ee",
+      "name": "halfball.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "1bd9579b-1065-44a3-bdda-ad8f5cabde62@592ee",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1bd9579b-1065-44a3-bdda-ad8f5cabde62@538fa"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "1bd9579b-1065-44a3-bdda-ad8f5cabde62@592ee"
+      ]
+    }
+  }
+}

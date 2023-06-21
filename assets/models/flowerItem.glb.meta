@@ -1,0 +1,76 @@
+{
+  "ver": "2.3.8",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a66191b8-f7bb-454c-a4bf-3eb537220b5d",
+  "files": [],
+  "subMetas": {
+    "0f1cb": {
+      "importer": "gltf-mesh",
+      "uuid": "a66191b8-f7bb-454c-a4bf-3eb537220b5d@0f1cb",
+      "displayName": "",
+      "id": "0f1cb",
+      "name": "petal.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab635": {
+      "importer": "gltf-scene",
+      "uuid": "a66191b8-f7bb-454c-a4bf-3eb537220b5d@ab635",
+      "displayName": "",
+      "id": "ab635",
+      "name": "flowerItem.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "a66191b8-f7bb-454c-a4bf-3eb537220b5d@ab635",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a66191b8-f7bb-454c-a4bf-3eb537220b5d@0f1cb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a66191b8-f7bb-454c-a4bf-3eb537220b5d@ab635"
+      ]
+    }
+  }
+}

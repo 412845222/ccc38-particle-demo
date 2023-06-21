@@ -1,0 +1,77 @@
+{
+  "ver": "2.3.8",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e8f70b50-091f-42c2-9155-5c41f4f5f09c",
+  "files": [],
+  "subMetas": {
+    "90916": {
+      "importer": "gltf-mesh",
+      "uuid": "e8f70b50-091f-42c2-9155-5c41f4f5f09c@90916",
+      "displayName": "",
+      "id": "90916",
+      "name": "bracket.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "098b1": {
+      "importer": "gltf-scene",
+      "uuid": "e8f70b50-091f-42c2-9155-5c41f4f5f09c@098b1",
+      "displayName": "",
+      "id": "098b1",
+      "name": "bracket.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.13",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "e8f70b50-091f-42c2-9155-5c41f4f5f09c@098b1",
+    "assetFinder": {
+      "meshes": [
+        "e8f70b50-091f-42c2-9155-5c41f4f5f09c@90916"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e8f70b50-091f-42c2-9155-5c41f4f5f09c@098b1"
+      ]
+    },
+    "mountAllAnimationsOnPrefab": true,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
